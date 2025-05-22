@@ -50,3 +50,9 @@ function atualizaCronometro(){
         document.getElementById("min"+i).textContent = calculaTempo(tempo[i])[2];
     }
 }
+
+function comecaCronometro(){
+
+    
+} 
+
